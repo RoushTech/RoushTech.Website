@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>RoushTech.Website</id>
+    <version>1.0.0</version>
+    <authors>William Roush</authors>
+    <description>RoushTech.Website</description>
+  </metadata>
+  <files>
+    <file src="bin\Debug\netcoreapp1.0\publish\**\*.*"/>
+  </files>
+</package>
